@@ -1,0 +1,11 @@
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\bin\Debug\SnakeGame.exe
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.csproj.SuggestedBindingRedirects.cache
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.exe
+D:\PROJETOS_IDEIAS\_Github\SnakeC#\SnakeGame\obj\Debug\SnakeGame.pdb
